@@ -3,7 +3,7 @@ The task was to write a program that finds the best possible tour from .msg HQ i
 See also [here](https://www.get-in-it.de/coding-challenge)
 
 # Questions
-The following questions had to be answered for the challenge\
+The following questions had to be answered for the challenge
 ## Why I chose the algorithm I chose (Held-Karp-Algorithm)
 After realizing that this challenge is not about finding the minimum path from A to B and then realizing
 that a brute force approach won't give me a solution in time, I decided to use Held-Karp as it 
