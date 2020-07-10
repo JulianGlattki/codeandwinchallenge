@@ -31,7 +31,7 @@ For me personally it was also the most approachable algorithm and helped my in i
 9 Gorlitz\
 5 Chemnitz\
 17 Passau\
-1 Ismaning/Munchen (Hauptsitz)\
+1 Ismaning/Munchen (Hauptsitz)
 
 Minimum possible distance is: 2333.046 km\
 (Please note: I used the Haversine formula to calculate distances, so the absolute distance might be slighty off. It can be
