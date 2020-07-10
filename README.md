@@ -1,5 +1,6 @@
 # MSG / get in it: Coding Challenge Code & Win
-See [here](https://www.get-in-it.de/coding-challenge)
+The task was to write a program that finds the best possible tour from .msg HQ in Munich through all other .msg site's back to Munich.
+See also [here](https://www.get-in-it.de/coding-challenge)
 
 # Questions
 The following questions had to be answered for the challenge\
