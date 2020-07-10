@@ -38,7 +38,7 @@ Minimum possible distance is: 2333.046 km\
 (Please note: I used the Haversine formula to calculate distances, so the absolute distance might be slighty off. It can be
 improved by using packages like geopy. I decided not to use any non-native packages so it is easier to run.)
 
-## To run this programm 
+## To run this program
 You need to have Python 3.7.4 (it might also work on older versions, but I only tested it on 3.7.4.)
 
 Download this repository, unzip it and open your terminal in the directory you unzipped it to. 
