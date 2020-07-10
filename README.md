@@ -2,7 +2,8 @@
 See [here](https://www.get-in-it.de/coding-challenge)
 
 # Questions
-## Held-Karp-Algorithm
+The following questions had to be answered for the challenge\
+## Why I chose the algorithm I chose (Held-Karp-Algorithm)
 After realizing that this challenge is not about finding the minimum path from A to B and then realizing
 that a brute force approach won't give me a solution in time, I decided to use Held-Karp as it 
 significantly reduces the time needed to find the best path (but still finds it in all cases). 
